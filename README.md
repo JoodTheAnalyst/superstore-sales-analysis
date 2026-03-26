@@ -1,6 +1,6 @@
 # Superstore Sales & Profitability Analysis
 
-An exploratory analysis of the Superstore dataset to identify which regions, categories, segments, and discount strategies drive profit — and where the business is losing money.
+An exploratory analysis of the Superstore dataset to identify which regions, categories, segments, and discount strategies drive profit, and where the business is losing money.
 
 ---
 
